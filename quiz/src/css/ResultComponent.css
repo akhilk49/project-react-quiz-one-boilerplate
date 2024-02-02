@@ -1,0 +1,53 @@
+
+.inner-result{
+    text-align: center;
+  }
+  
+  h1{
+    color:green
+  }
+  .score{
+    color:blue
+  }
+  .score-section{
+    background-color: #f8f8f8; 
+    border-left: 5px solid rgb(134, 134, 243);
+    width: 40%;
+    margin: 2rem auto 0 auto;
+    padding: 1.5rem 2rem;
+  }
+  
+  .flex{
+    display: flex;
+    justify-content:space-between;
+    gap: 0rem;
+  }
+  
+  .details{
+    text-align: left;
+  }
+  
+  .buttons{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin: 30px;
+  }
+  .buttons button{
+    height: 75px;
+    width: 100px;
+  }
+  
+  /* .play{
+    border-color: rgb(118, 118, 214);
+    color: rgb(118, 118, 214);
+    margin-right: 30px;
+    width: 7%;
+  }
+  
+  .home{
+    border-color: green;
+    color:green;
+    width: 70px;
+  } */
